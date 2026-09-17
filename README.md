@@ -194,4 +194,4 @@ MotionBuilder is available as a full free version with all features and updates 
 Download MotionBuilder today and start animating your ideas into reality!
 
 ---
-**Last updated:** 2026-09-17 18:53:28 UTC
+**Last updated:** 2026-09-17 21:59:47 UTC
