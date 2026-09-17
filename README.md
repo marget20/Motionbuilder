@@ -192,3 +192,6 @@ MotionBuilder is available as a full free version with all features and updates 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Download MotionBuilder today and start animating your ideas into reality!
+
+---
+**Last updated:** 2026-09-17 04:18:14 UTC
